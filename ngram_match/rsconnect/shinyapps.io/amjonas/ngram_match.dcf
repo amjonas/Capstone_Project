@@ -1,0 +1,12 @@
+name: ngram_match
+title: ngram_match
+username:
+account: amjonas
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3328032
+bundleId: 3925521
+url: https://amjonas.shinyapps.io/ngram_match/
+when: 1606787618.73725
+asMultiple: FALSE
+asStatic: FALSE
